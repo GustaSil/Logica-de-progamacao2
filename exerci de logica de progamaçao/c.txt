@@ -1,0 +1,5 @@
+"minha_biblioteca.h" stdlib.h 
+e um arquivo cabeçalho dda biblioteca de propósito geral padrão da linguagem de programação C.
+ela possui funçoes envolvendo alocaçoes de memoria controle de processos conversoes e outras
+Stdio.h 
+arquivo-cabeçalho utilizado para
