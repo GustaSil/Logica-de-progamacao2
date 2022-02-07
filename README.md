@@ -12,4 +12,5 @@ clone: e pegar o repositorio de rede e passar para salva no desktop local
 
 push: enviar as alterações de repositorio local para o repositorio remoto
 
-pu: trazer informações do repositorio remoto para o local 
+pu: trazer informações do repositorio remoto para o local com correções ortograficas
+
