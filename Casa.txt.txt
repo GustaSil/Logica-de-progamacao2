@@ -1,0 +1,2 @@
+Criei este arquivo em casa e farei o commit de suas 
+alterações e em seguida o push para o repositorio remoto
