@@ -11,3 +11,5 @@ comite: E o empacotemento de um grupo de Alterações
 clone: e pegar o repositorio de rede e passar para salva no desktop local
 
 push: enviar as alterações de repositorio local para o repositorio remoto
+
+pu:
