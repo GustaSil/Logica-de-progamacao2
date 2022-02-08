@@ -12,6 +12,8 @@ clone: e pegar o repositorio de rede e passar para salva no desktop local
 
 push: enviar as alterações de repositorio local para o repositorio remoto
 
-pu: trazer informações do repositorio remoto para o local com correções ortograficas
+pull: trazer informações do repositorio remoto para o local com correções ortograficas
 
 Fork: Copia o repositorio de outro usuario e passar para o seu
+
+Blench
