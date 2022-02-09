@@ -16,4 +16,5 @@ pull: trazer informações do repositorio remoto para o local com correções or
 
 Fork: Copia o repositorio de outro usuario e passar para o seu
 
-Blench
+Branch: E a ramificação do repositorio
+
