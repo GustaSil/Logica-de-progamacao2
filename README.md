@@ -19,3 +19,5 @@ Fork: Copia o repositorio de outro usuario e passar para o seu
 Branch: E a ramificação do repositorio
 
 Merge: A junção de duas brench
+
+pull request: e quando faz melhorias num codigo que você fez o fork
